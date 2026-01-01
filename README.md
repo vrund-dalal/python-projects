@@ -8,9 +8,8 @@ This repository will grow as I continue learning and adding new projects.
   2. Password Generator
   3. Basic Calculator
   4. To-do-List(CLI Version)
-  5. Weather App(API)
-  6. Alarm Clock
-  7. Expense Tracker
+  5. Alarm Clock
+  6. Expense Tracker
 
 ## Skills Practiced
   1. Variables & data types
